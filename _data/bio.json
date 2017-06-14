@@ -2,11 +2,11 @@
   "basics": {
     "name": "Pablo Rodrigo",
     "label": "Professional ",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://goo.gl/MS54Aq",
     "email": "pablo.silva.rodrigo@gmail.com",
     "phone": "(92) 9 9317-1969",
     "website": "https://pablorodrigo.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "Hello! I’m Pablo Rodrigo. Developer Full Stack expert in back-end who uses frameworks for cost reduction and time-to-market. Experienced  in project management, customer relations and all stages of development cycle for web and mobile projects. Well-versed in numerous programming languages including Java, Android, SQL and always seeking new knowledge.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "pablorodrigo",
+        "url": "https://github.com/pablorodrigo"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "pablo-silva-rodrigo",
+        "url": "https://www.linkedin.com/in/pablo-silva-rodrigo"
       },
       {
         "network": "twitter",
