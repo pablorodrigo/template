@@ -12,7 +12,7 @@
       "postalCode": "69046380",
       "city": "Manaus",
       "countryCode": "BR",
-      "region": "North"
+      "region": "Amazonas"
     },
     "profiles": [
       {
@@ -29,45 +29,71 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
       "name": "artificial intelligence",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "machine learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "virtual reality",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "games",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
         "Java",
+        "Android",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "RESTful",
+        "JPA/JSF/JPQL",
+        "Hibernate",
+        "SugarORM",
+        "ButterKnife",
+        "HTML/CSS",
+        "jQuery",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB/Neo4j",
+        "Design Patterns",
+        "UML",
+        "Scrum"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "OS/Toolsets/IDEAs",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Mint",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Kanban/KanbanFlow",
+        "Eclipse",
+        "IntelliJ",
+        "Android Studio",
+        "Intel XDK",
+        "Unity"
+      ]
+    },
+     {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Fluent Portuguese",
+        "Intermediate English",
+        "Basic Japanese"
       ]
     }
   ],
