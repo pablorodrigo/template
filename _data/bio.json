@@ -99,11 +99,21 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Uninorte",
+      "area": "Software Engineering with emphasis on web solutions development (expected Spring, August 2017)",
+      "studyType": "Post-graduation",
+      "startDate": "2016",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+     {
+      "institution": "Fucapi",
+      "area": "Information Systems",
+      "studyType": "B.S.",
+      "startDate": "2011",
+      "endDate": "2015",
       "gpa": "",
       "courses": [
       ]
