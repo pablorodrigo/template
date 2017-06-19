@@ -121,27 +121,44 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "HelpAmazon",
+      "position": "Software Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Working in the entire process of developing solutions for Android and Web platforms",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Planning, development, maintenance, deployment and customer relationship"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "CIESA",
+      "position": "Teacher",
+      "website": "http://www.ciesa.br/",
+      "startDate": "2017-02-01",
+      "endDate": "2017-03-01",
+      "summary": "Android teacher in a technological event",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      ]
+    },
+     {
+      "company": "Fucapi",
+      "position": "Teacher",
+      "website": "http://www.fucapi.br/",
+      "startDate": "2016-05-01",
+      "endDate": "2016-06-12",
+      "summary": "Android teacher in a technical computer course module",
+      "highlights": [
+      ]
+    },
+     {
+      "company": "Buritech",
+      "position": "Developer/Instructor",
+      "website": "",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Working as an instructor of professional training courses and Web/Android solution developer.",
+      "highlights": [
       ]
     }
   ],
