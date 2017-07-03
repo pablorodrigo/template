@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - Primefaces
   - JSF/JPA/CDI
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: RP Projet for the Waldemiro P Lustoza e Cia Ltda company.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/sigwpl.jpg">
