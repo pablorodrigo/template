@@ -6,6 +6,7 @@ title: De olho em Manaus
 permalink: projects/guiamanaus
 date: 2017
 labels:
+  - Android
   - Java
   - JavaScript
   - PrimeFaces
