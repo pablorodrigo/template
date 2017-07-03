@@ -16,7 +16,7 @@ summary: Projet for 2° Tabelionato Carlos Rocha, notary's office.
 <img class="ui medium right floated rounded image" src="../images/cartorio.png">
 
 # Drescription
-This was my first professional project in web application that I've helped to create as a team project in 2014-16 in the [Buritech](http://www.buritech.com.br/site/) company. This project control the entire process of a registry in the notary's office.
+This was my first professional project in web application that I've helped to create as a team project in 2014-16 in the [Buritech](http://www.buritech.com.br/site/) company. This project control the entire process of a registry in the notary's office (notary public).
 
 Int this project helped me learn how to design and implement a responsive web and how is a professional project.
 
