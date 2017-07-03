@@ -12,8 +12,7 @@ labels:
   - PrimeFaces
   - Mysql
   - JPA/JSF/CDI
-summary: A mobile application for information on events in the city of Manaus-BR
----
+summary: A mobile application for information on events in the city of Manaus-BR---
 
 <img class="ui medium right floated rounded image" src="../images/guiamanaus.jpg">
 
