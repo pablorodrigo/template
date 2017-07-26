@@ -24,15 +24,6 @@ This project is implemented in Android. During the project I created a webservic
 
 In this project I gained experience with full-stack web / mobile application design and associated technologies.
 
-# Project Structure
-Being used MVP design pattern (Model-View-Presenter)
-
-# Frameworks in Android
-
- - SugarORM: (http://satyan.github.io/sugar/).
- - Butterknife: (http://jakewharton.github.io/butterknife/).
- - Picasso:  (http://square.github.io/picasso/).
-
 <hr>
 
  <a href="https://play.google.com/store/apps/details?id=br.com.atadigital.guiamanaus&hl=pt_BR"><img border="0" alt="GooglePlay" src="http://i66.tinypic.com/am2n9f.jpg" width="320">
