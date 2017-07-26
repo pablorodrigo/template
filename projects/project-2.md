@@ -32,3 +32,7 @@ Being used MVP design pattern (Model-View-Presenter)
  - SugarORM: (http://satyan.github.io/sugar/).
  - Butterknife: (http://jakewharton.github.io/butterknife/).
  - Picasso:  (http://square.github.io/picasso/).
+ 
+ # Download
+
+[![N|Solid](http://i63.tinypic.com/2hz0hn8.png)](https://play.google.com/store/apps/details?id=br.com.atadigital.guiamanaus&hl=pt_BR)
