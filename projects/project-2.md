@@ -35,4 +35,4 @@ Being used MVP design pattern (Model-View-Presenter)
  
  # Download
 
-[![N|Solid](http://i63.tinypic.com/2hz0hn8.png)](https://play.google.com/store/apps/details?id=br.com.atadigital.guiamanaus&hl=pt_BR)
+ <a href="https://play.google.com/store/apps/details?id=br.com.atadigital.guiamanaus&hl=pt_BR"><img border="0" alt="GooglePlay" src="http://i63.tinypic.com/2hz0hn8.png" width="320">
