@@ -33,7 +33,6 @@ Being used MVP design pattern (Model-View-Presenter)
  - Butterknife: (http://jakewharton.github.io/butterknife/).
  - Picasso:  (http://square.github.io/picasso/).
 
-#
 <hr>
 
- <a href="https://play.google.com/store/apps/details?id=br.com.atadigital.guiamanaus&hl=pt_BR"><img border="0" alt="GooglePlay" src="http://i63.tinypic.com/2hz0hn8.png" width="320">
+ <a href="https://play.google.com/store/apps/details?id=br.com.atadigital.guiamanaus&hl=pt_BR"><img border="0" alt="GooglePlay" src="http://i66.tinypic.com/am2n9f.jpg" width="320">
