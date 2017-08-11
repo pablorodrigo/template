@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - Primefaces
   - JSF/JPA/CDI
-summary: 
+summary: Projet for the notary's office 2° Tabelionato Carlos Rocha.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/cartorio.png">
