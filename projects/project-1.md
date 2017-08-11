@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sigwpl.jpg
-title: Sigwpl
+title: Waldemiro P Lustoza - AM
 permalink: projects/sigwpl
 date: 2015
 labels:
@@ -15,23 +15,23 @@ summary: RP Projet for the Waldemiro P Lustoza e Cia Ltda company.
 
 <img class="ui medium right floated rounded image" src="../images/sigwpl.jpg">
 
-# Drescription
-Sigwpl is a web application that I've helped to create since 2016 in the HelpAmazon company. This project controls the sectors of a vessel company for example: maintenance, financial, officials and others.
+# Description
+Sigwpl is a web application that I have been creating and developing since 2016 in HelpAmazon company. This project controls the sectors of a vessel company for example: maintenance, finances, reports and others.
 
-The project helped me learn more how to design and implement a responsive web site even using [PrimeFaces](https://www.primefaces.org/showcase/index.xhtml).
+The project has helped me to learn how to design and implement a responsive web site using [PrimeFaces](https://www.primefaces.org/showcase/index.xhtml).
 
-I work in the entire process of developing for example: 
+I have been working in the entire process of developing i.e.:
  - Collect requirements; 
  - Planning;
  - prototyping;
  - Implementation; 
  - Testing;
- - Deployment
+ - Deployment.
 
-In this project I gained experience with full-stack web application and project management.
+With this project I gained experience in full-stack web application and project management.
 
 # Project Structure
-Being used MVC design pattern (Model-View-Controller)
+Been using MVC design pattern (Model-View-Controller)
 
 
 
