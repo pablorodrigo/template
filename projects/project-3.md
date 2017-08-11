@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cartorio.png
-title: cartorio
+title: Cartorio
 permalink: projects/cartorio
 date: 2015
 labels:
