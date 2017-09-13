@@ -10,7 +10,7 @@ labels:
   - JavaScript
   - Primefaces
   - JSF/JPA/CDI
-summary: ERP Projet for the Waldemiro P Lustoza e Cia Ltda company.
+summary: ERP Project for the Waldemiro P Lustoza e Cia Ltda company.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/sigwpl.jpg">
