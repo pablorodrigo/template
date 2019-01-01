@@ -12,6 +12,8 @@ labels:
   - PrimeFaces
   - Mysql
   - JPA/JSF/CDI
+  - Kotlin
+  - Firebase
 summary: A mobile application for information about events in Manaus-BR.
 ---
 
@@ -20,10 +22,12 @@ summary: A mobile application for information about events in Manaus-BR.
 # Description
 “De olho em manaus” is a mobile application that I created in 2017. The project helped me learn more how about design and implements in mobile system.
 
-This project was implemented in Android. During the project I created a webservice hosted in AmazonWS that is where the data is consumed through JSON.
+This project was implemented in Android. During the project I created a webservice hosted in AmazonWS that is where the data is consumed through JSON. After 1 year I changed to Firebase and now I don't neet to use AmazonWS anymore. 
 
 In this project I gained experience with full-stack web / mobile application design and associated technologies.
 
 <hr>
 
  <a href="https://play.google.com/store/apps/details?id=br.com.atadigital.guiamanaus&hl=pt_BR"><img border="0" alt="GooglePlay" src="http://i66.tinypic.com/am2n9f.jpg" width="320">
+  
+<img border="0" alt="AppStore" src="http://conarobo.focalise.com.br/wp-content/uploads/2015/07/ios-coming-soon.png" width="320">
