@@ -2,7 +2,7 @@
   "basics": {
     "name": "Pablo Rodrigo",
     "label": "Professional ",
-    "picture": "https://goo.gl/5mqgkJ",
+    "picture": "https://media.licdn.com/dms/image/C4D03AQHJvRadsQ0V5g/profile-displayphoto-shrink_200_200/0?e=1551916800&v=beta&t=yUF2PYvbjZjRYYhkEPdlOPwHFkFCrKWKR1rN9mNISNY",
     "email": "pablo.silva.rodrigo@gmail.com",
     "phone": "(92) 9 9317-1969",
     "website": "https://pablorodrigo.github.io/",
@@ -100,7 +100,7 @@
   "education": [
     {
       "institution": "Uninorte",
-      "area": "Software Engineering with emphasis on web solutions development (expected Spring, August 2017)",
+      "area": "Software Engineering with emphasis on web solutions development",
       "studyType": "Post-graduation",
       "startDate": "2016",
       "endDate": "Present",
@@ -121,11 +121,22 @@
   ],
   "work": [
     {
+      "company": "Samsung - SIDIA",
+      "position": "Software Developer",
+      "website": "http://www.sidia.org.br/en/home/",
+      "startDate": "2017-08-27",
+      "endDate": "Present",
+      "summary": "Requirements team to change and maintain all Latin Carrier's customization requirements to Android platforms.",
+      "highlights": [
+        "Planning, development, maintenance, bug fix"
+      ]
+    },
+    {
       "company": "HelpAmazon",
       "position": "Software Developer",
       "website": "",
       "startDate": "2016-01-01",
-      "endDate": "Present",
+      "endDate": "2017-08-01",
       "summary": "Working in the entire process of developing solutions for Android and Web platforms",
       "highlights": [
         "Planning, development, maintenance, deployment and customer relationship"
