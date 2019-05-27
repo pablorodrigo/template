@@ -55,13 +55,13 @@
       "level": "",
       "keywords": [
         "Java",
+        "C#/Unity"
         "Android",
         "Javascript",
         "RESTful",
         "JPA/JSF/JPQL",
         "Hibernate",
-        "SugarORM",
-        "ButterKnife",
+        "RoomORM",
         "HTML/CSS",
         "jQuery",
         "PostgreSQL",
@@ -69,7 +69,8 @@
         "MongoDB/Neo4j",
         "Design Patterns",
         "UML",
-        "Scrum"
+        "Scrum",
+        "Kotlin"
       ]
     },
     {
@@ -99,16 +100,6 @@
   ],
   "education": [
     {
-      "institution": "Uninorte",
-      "area": "Software Engineering with emphasis on web solutions development",
-      "studyType": "Post-graduation",
-      "startDate": "2016",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-     {
       "institution": "Fucapi",
       "area": "Information Systems",
       "studyType": "B.S.",
