@@ -22,6 +22,3 @@ Int this project helped me learn how to design and implement a responsive web an
 
 # Project Structure
 Being used MVC design pattern (Model-View-Controller)
-
-
-

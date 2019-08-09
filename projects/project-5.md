@@ -10,19 +10,17 @@ labels:
   - Unity
   - Blender
   - MagicaVoxel
+summary: Try to cross the road with this game developed for fun.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/icon_cross_road.png">
 
 # Description
 It was a game that a develop in a course where 
-I had opportunity to learn a little about MagicaVoxel and Blender to model Assets and how develop procedural scenarios
+I had opportunity to learn a little about MagicaVoxel and Blender to model Assets and how develop procedural scenarios. There are some bugs but you can play :P
 
 # Project Structure
 Being used MVC design pattern (Model-View-Controller)
 
 # Download
 https://drive.google.com/open?id=1TOM3BvkG3VZtOZYQVr632LA7fYIBuxct
-
-
-

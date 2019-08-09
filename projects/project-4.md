@@ -8,6 +8,7 @@ date: 2017
 labels:
   - C#
   - Unity
+summary: Try to jump and slash to avoid obstacles!.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/icon_megaman.png">
@@ -22,6 +23,3 @@ Being used MVC design pattern (Model-View-Controller)
 
 # Download
 https://drive.google.com/open?id=1TOM3BvkG3VZtOZYQVr632LA7fYIBuxct
-
-
-
