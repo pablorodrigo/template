@@ -20,11 +20,9 @@ summary: A mobile application for information about events in Manaus-BR.
 <img class="ui medium right floated rounded image" src="../images/guiamanaus.jpg">
 
 # Description
-“De olho em manaus” is a mobile application that I created in 2017. The project helped me learn more how about design and implements in mobile system.
+“De olho em manaus” is a mobile application that I developed in 2017. The project helped me to learn more about design and differents features for Android SO.
 
-This project was implemented in Android. During the project I created a webservice hosted in AmazonWS that is where the data is consumed through JSON. After 1 year I changed to Firebase and now I don't neet to use AmazonWS anymore. 
-
-In this project I gained experience with full-stack web / mobile application design and associated technologies.
+At the beginning of the project I hosted my database in AmazonWS where the data was consumed through JSON. However, I changed to Firebase service after 1 year and shutted down AWS. 
 
 <hr>
 
