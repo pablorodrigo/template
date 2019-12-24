@@ -16,22 +16,20 @@ summary: ERP Project for the Waldemiro P Lustoza e Cia Ltda company.
 <img class="ui medium right floated rounded image" src="../images/sigwpl.jpg">
 
 # Description
-Sigwpl is a web application that I have been creating and developing since 2016 in HelpAmazon company. This project controls the sectors of a vessel company for example: maintenance, finances, reports and others.
-
-The project has helped me to learn how to design and implement a responsive web site using [PrimeFaces](https://www.primefaces.org/showcase/index.xhtml).
+Sigwpl is a web application that I have been developing since 2016 for HelpAmazon company as a Freelancer. This project controls departments of a vessel company called Waldemiro P. Luztoza & Cia Ltda in Brazil such as maintenance, finances, human resources and others.
 
 I have been working in the entire process of developing i.e.:
  - Collect requirements; 
  - Planning;
- - prototyping;
+ - Prototyping;
  - Implementation; 
  - Testing;
  - Deployment.
 
-With this project I gained experience in full-stack web application and project management.
+This project provided me a solid understanding of full-stack development and project management.
 
 # Project Structure
-Been using MVC design pattern (Model-View-Controller)
+MVC design pattern (Model-View-Controller)
 
 
 
