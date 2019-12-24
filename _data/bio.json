@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Pablo Rodrigo",
+    "name": "Pablo Silva",
     "label": "Professional ",
     "picture": "https://avatars3.githubusercontent.com/u/6105149?s=460&v=4",
     "email": "pablo.silva.rodrigo@gmail.com",
     "phone": "(92) 9 9317-1969",
     "website": "https://pablorodrigo.github.io/",
-    "summary": "Hello! I’m Pablo Rodrigo. Full-stack developer expert in back-end who uses frameworks for cost reduction and time-to-market. Experienced  in project management, customer relations and all stages of development cycle for web and mobile projects. Well-versed in numerous programming languages including Java, Android, SQL and always seeking new knowledge.",
+    "summary": "Hello! I’m Pablo Silva.I have more than four years of IT experience in different fields. I am Software developer who uses frameworks for cost reduction and time-to-market. Experienced in project management, customer relations and all stages of the development cycle for web and mobile projects. Well-versed in numerous programming languages such as Java, Kotlin, Android SDK, SQL, JavaScript, NodeJS and so forth.",
     "location": {
       "address": "",
       "postalCode": "69046380",
@@ -93,7 +93,7 @@
       "level": "",
       "keywords": [
         "Fluent Portuguese",
-        "Intermediate English",
+        "Advanced English",
         "Basic Japanese"
       ]
     }
@@ -117,7 +117,7 @@
       "website": "http://www.sidia.org.br/en/home/",
       "startDate": "2017-08-27",
       "endDate": "Present",
-      "summary": "Requirements team to change and maintain all Latin Carrier's customization requirements to Android platforms.",
+      "summary": "Working on Requirements Team Group to develop and maintain features on Android platform of all Latin Carriers for Samsung devices. We have involvement with Java, Kotlin, C, Json, XML, code debugging and python to automate activities. In addition, we also apply some features for Samsung applications, such as Contacts, S Planner, S Note, Clocks and Keyboard.",
       "highlights": [
         "Planning, development, maintenance, bug fix"
       ]
@@ -159,7 +159,7 @@
       "website": "",
       "startDate": "2014-01-01",
       "endDate": "2016-01-01",
-      "summary": "Working as an instructor of professional training courses and Web/Android solution developer.",
+      "summary": "Working as an instructor of professional training courses and Web/Android software developer.",
       "highlights": [
       ]
     }
