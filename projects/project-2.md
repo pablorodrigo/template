@@ -17,7 +17,7 @@ labels:
 summary: A mobile application for information about events in Manaus-BR.
 ---
 
-<img width="300" height="400" class="ui medium right floated rounded image" src="../images/guiamanaus.png">
+<img width="auto" height="200" class="ui medium right floated rounded image" src="../images/guiamanaus.png">
 
 # Description
 “De olho em manaus” is a mobile application that I developed in 2017. The project helped me to learn more about design and differents features for Android SO.
