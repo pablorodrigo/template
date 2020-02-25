@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/guiamanaus.jpg
+image: images/guiamanaus.png
 title: De olho em Manaus
 permalink: projects/guiamanaus
 date: 2017
