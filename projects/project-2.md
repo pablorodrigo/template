@@ -16,8 +16,9 @@ labels:
   - Firebase
 summary: A mobile application for information about events in Manaus-BR.
 ---
-
-<img width="auto" height="200" class="ui medium right floated rounded image" src="../images/guiamanaus.png">
+<div class="ui small rounded images">
+<img  class="ui image" src="../images/guiamanaus.png">
+</div>
 
 # Description
 “De olho em manaus” is a mobile application that I developed in 2017. The project helped me to learn more about design and differents features for Android SO.
