@@ -27,6 +27,6 @@ At the beginning of the project I hosted my database in AmazonWS where the data 
 
 <hr>
 
- <a href="https://play.google.com/store/apps/details?id=br.com.atadigital.guiamanaus&hl=pt_BR"><img border="0" alt="GooglePlay" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="320">
+ <a href="https://play.google.com/store/apps/details?id=br.com.atadigital.guiamanaus&hl=pt_BR"><img border="0" alt="GooglePlay" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="350">
   
-<img border="0" alt="AppStore" src="http://conarobo.focalise.com.br/wp-content/uploads/2015/07/ios-coming-soon.png" width="320">
+   <a href="  https://apps.apple.com/br/app/de-olho-em-manaus/id1499415285?l=en"><img border="0" alt="AppStore" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/1280px-Download_on_the_App_Store_Badge.svg.png" width="320">
